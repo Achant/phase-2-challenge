@@ -1,0 +1,49 @@
+body {
+  margin: 50px;
+}
+
+button {
+  font-size: 10px;
+}
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  border: 1px solid black;
+  top: 0;
+  background-color: orange;
+}
+
+
+
+.sidebar {
+  position: fixed;
+  width: 100%;
+  border: 1px solid black;
+  line-height: 20px;
+  margin-top: -5vh;
+}
+
+.sidebarTitle {
+  background-color: red;
+  border: 1px solid black;
+  line-height: 20px;
+
+}
+
+.page {
+  margin-top: 20vh;
+  margin-left: 26vh;
+  line-height: 100px;
+}
+
+.pageTitle {
+  font-size: 70px;
+  line-height: 10px;
+}
+
+.sectionTitle {
+  font-style: bold;
+  font-size: 20;
+  text-align: right;
+}
