@@ -3,31 +3,42 @@ body {
 }
 
 button {
-  font-size: 10px;
+  font-size: 20px;
 }
 
 .navbar {
-  position: fixed;
+  position: relative;
   width: 100%;
-  border: 1px solid black;
-  top: 0;
+  border: 2px solid black;
+  top: 10px;
   background-color: orange;
+  font-size: 40px;
+  line-height: 80px;
+
 }
 
 
 
 .sidebar {
-  position: fixed;
+
+  position: relative;
   width: 100%;
   border: 1px solid black;
   line-height: 20px;
   margin-top: -5vh;
 }
 
+.logout {
+  font-size: 25px;
+  position: relative;
+  right: -1200px;
+
+}
+
 .sidebarTitle {
   background-color: red;
   border: 1px solid black;
-  line-height: 20px;
+  line-height: 30px;
 
 }
 
@@ -39,11 +50,14 @@ button {
 
 .pageTitle {
   font-size: 70px;
-  line-height: 10px;
 }
 
 .sectionTitle {
   font-style: bold;
-  font-size: 20;
+  font-size: 25px;
   text-align: right;
+}
+.timeLength {
+  position: relative;
+  left: 200px;
 }

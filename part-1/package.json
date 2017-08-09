@@ -1,0 +1,24 @@
+{
+  "name": "part-0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achant/phase-2-challenge.git"
+  },
+  "author": "amine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achant/phase-2-challenge/issues"
+  },
+  "homepage": "https://github.com/achant/phase-2-challenge#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
