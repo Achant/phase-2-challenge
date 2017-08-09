@@ -3,6 +3,7 @@ When you run a command in the terminal, where does BASH look for that command?
   
 On a UNIX computer, how do you stop a running process?
 = the control-c command to stop the running, or the command control-z for temporary stop.
+
 What packages do you have installed via homebrew?
 
 =gdbm		icu4c		openssl		postgresql	zsh
